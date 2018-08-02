@@ -149,3 +149,36 @@ header {
     height: 300px;
     margin-bottom: 133px;
 }
+
+.container {
+    position: relative;
+    width: 1024px;
+    top: 89px;
+    margin: 0 auto;
+    overflow: hidden;
+    clear: both;
+}
+
+h1 {
+    font-family: 微軟正黑體;
+    font-size: #ffffff;
+    letter-spacing: 3.89px;
+    text-align: center;
+}
+
+.select {
+    background: rgba(255, 255, 255, 0.70);
+    border: 3px solid #ffffff;
+    border-radius: 3px;
+    width: 425px;
+    align-content: center;
+    font-family: 微軟正黑體;
+    font-size: 18px;
+    color: #000000;
+    line-height: 21px;
+    display: block;
+    margin-top: 96px;
+    margin-bottom: 79px;
+    margin-right: auto;
+    margin-left: auto;
+}
